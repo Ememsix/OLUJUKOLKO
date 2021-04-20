@@ -1,0 +1,16 @@
+C:\Users\Broda\source\repos\OLUJUKOLKO\bin\Debug\netcoreapp3.1\OLUJUKOLKO.exe
+C:\Users\Broda\source\repos\OLUJUKOLKO\bin\Debug\netcoreapp3.1\OLUJUKOLKO.deps.json
+C:\Users\Broda\source\repos\OLUJUKOLKO\bin\Debug\netcoreapp3.1\OLUJUKOLKO.runtimeconfig.json
+C:\Users\Broda\source\repos\OLUJUKOLKO\bin\Debug\netcoreapp3.1\OLUJUKOLKO.runtimeconfig.dev.json
+C:\Users\Broda\source\repos\OLUJUKOLKO\bin\Debug\netcoreapp3.1\OLUJUKOLKO.dll
+C:\Users\Broda\source\repos\OLUJUKOLKO\bin\Debug\netcoreapp3.1\OLUJUKOLKO.pdb
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.csproj.GenerateResource.cache
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.AssemblyInfoInputs.cache
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.AssemblyInfo.cs
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.csproj.CoreCompileInputs.cache
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.dll
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.pdb
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.genruntimeconfig.cache
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.csprojAssemblyReference.cache
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.Form1.resources
+C:\Users\Broda\source\repos\OLUJUKOLKO\obj\Debug\netcoreapp3.1\OLUJUKOLKO.Form2.resources
